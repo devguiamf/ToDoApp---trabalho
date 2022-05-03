@@ -1,0 +1,24 @@
+.btn {
+    margin-right: 5px;
+}
+
+.markedAsDone {
+    text-decoration: line-through rgb(255, 0, 0);
+    color: rgb(17, 0, 255);
+}
+
+.tableActions {
+     width: 105px;
+}
+
+.todoForm {
+    padding-bottom: 60px;
+}
+
+body{
+    background: rgb(34,193,195);
+    background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+
+
+
