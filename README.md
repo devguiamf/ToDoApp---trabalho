@@ -3,6 +3,8 @@
 <h3>Tecnologias Utilizadas:<h3/><img width = '40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
 <img width ='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />  
 <img width ='40px'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img width ='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
 
 <br/><br/>
 Neste projeto, estudamos a interação do Backend com o Front utilizando Frameworks como Express para utilização de rotas e 
